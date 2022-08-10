@@ -1,6 +1,5 @@
 # nutritionalscore
 
-//main.go
 package main
 
 import (
